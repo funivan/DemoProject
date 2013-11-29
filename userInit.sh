@@ -1,8 +1,8 @@
 #!/bin/bash
 #
-# Ivan Scherbak <dev@funivan.com> 2013
+# Ivan Shcherbak <dev@funivan.com> 2013
 #
-# You can rewrite  this file and
+# You can rewrite  this file
 #
 
  # configure git
