@@ -1,0 +1,22 @@
+{
+  "name": "fivnamespace/demoproject",
+  "description": "demo project",
+  "minimum-stability": "stable",
+  "license": "GPL v2",
+  "authors": [
+    {
+      "name": "Ivan Shcherbak",
+      "email": "dev@funivan.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "FivNamespace\\DemoProject\\": "DemoProject/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "3.7.*"
+  },
+  "require": {
+  }
+}
